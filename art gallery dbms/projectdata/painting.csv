@@ -1,0 +1,22 @@
+Painting_ID,Title,Description,Year,Type, Cost,Artist_ID,Sold_In_Ex_ID, Customer_ID
+1,Dancing,Gopies Dancing around Krishna,2000,Acrylic Madhubani ,250000,1,102,211
+2,WarliArt33,The nature and social rituals of the tribe,2001, Traditional Warli,70000,2,102,212
+3,Window,A women waiting nearby a window,2013,Acrylic Kalighat,300000,2,103,214
+4,KRISHNA NAUKA VIHAR ,Pichwai paintings on cloth,2017, Tribal Phad,65000,2,103,216
+5,COW MINIATURE ,A blend of islamic and parisan,2022, Traditional Miniature Art,180000,3,140,215
+6,Group Of Animals,Mythological tales of history,2012, Gond,35000,5,140,218
+7,Dance Kathakali,Depicting themes of classics,2008, Kerala Murals,85000,4,140,219
+9,Lord Krishna,The stories related to Lord Krishna,2020,Pichwai,125000,1,140,217
+10,MARRIAGE SCENE,Celebration of love and life,2021,Cheriyal Art,200000,1,140,220
+11,Blue Berry,Field of blueberries,2000,Acrylic Kalighat,300000,1,140,216
+12,Crispy Monday,Beautiful Monday,2001, Tribal Phad,65000,6,140,215
+13,Rainbow Fountain,Colorful splash of water,2013, Traditional Miniature Art,180000,6,140,218
+14,Unforgettable Moment,Grand party,2017, Gond,35000,4,150,219
+15,Burning Flash,Diwali celebration,2022, Kerala Murals,85000,3,150,213
+16,Neglected,Depiction of lonliness,2012,Patachitra ,85000,3,151,217
+18,Thunderstorm,Rain in the forest,2018,Acrylic Kalighat,125000,5,151,211
+20,Somewhere Lost,Nature beauty,2021, Traditional Miniature Art,300000,6,151,214
+21,Dazed,Lost in a long day,2000, Gond,65000,2,151,216
+22,Grievance,God creation,2001, Kerala Murals,180000,2,151,215
+25,White Mustang,My grandpa's car,2022,Cheriyal Art,300000,5,151,213
+26,Close to me,Noticed in long time,2012,Pichwai,65000,2,151,217
